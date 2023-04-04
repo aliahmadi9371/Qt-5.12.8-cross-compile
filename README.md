@@ -1,0 +1,1 @@
+# Qt-5.12.8-cross-compile
